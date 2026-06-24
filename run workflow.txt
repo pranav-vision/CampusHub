@@ -1,0 +1,10 @@
+venv start
+
+cd backend
+
+python app.py 
+
+
+go to browser and type 
+
+http://127.0.0.1:5000
